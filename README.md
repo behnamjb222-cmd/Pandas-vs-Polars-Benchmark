@@ -34,3 +34,15 @@ Migrating legacy pipelines from Pandas to Polars offers:
    ```bash
    git clone [https://github.com/behnamjb222-cmd/Pandas-vs-Polars-Benchmark.git](https://github.com/behnamjb222-cmd/Pandas-vs-Polars-Benchmark.git)
    cd Pandas-vs-Polars-Benchmark
+   ---
+## 👤 Author
+**Behnam Jabbari** *Data Scientist | Machine Learning & Deep Learning | Python Developer | MBA Candidate*
+
+<div align="left">
+  <a href="https://linkedin.com/in/behnam-jb-38965638a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/behnamjb222-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
